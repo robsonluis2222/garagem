@@ -7,7 +7,7 @@
     position:fixed;
     z-index: 4;
     right: 0;
-    top: 30%;
+    top: 40%;
     width: 50px;
     height: 50px;
     background-color: #4AAA4D;
@@ -18,7 +18,7 @@
     position:fixed;
     z-index: 3;
     right: 0;
-    top: 31%;
+    top: 41%;
     width: 50px;
     height: 50px;
     background-color: #1773EA;
@@ -29,10 +29,10 @@
     z-index: 2;
     position:fixed;
     right: 0;
-    top: 32%;
+    top: 42%;
     width: 50px;
     height: 50px;
-    background-color: #D53A6F;
+    background-color: transparent;
     border-radius: 8px;
     transition: 1s;
 }
@@ -44,5 +44,29 @@
     z-index: 1;
     position:fixed;
     right: 8px;
-    top: 32%;
+    top: 42%;
+}
+.wpp{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.wpp img{
+    width: 90%;
+}
+.face{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.face img{
+    width: 80%;
+}
+.insta{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.insta img{
+    width: 100%;
 }
