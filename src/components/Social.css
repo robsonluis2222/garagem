@@ -1,0 +1,48 @@
+.book{
+    position:fixed;
+    right: 0;
+    top: 30%;
+}
+.wpp{
+    position:fixed;
+    z-index: 4;
+    right: 0;
+    top: 30%;
+    width: 50px;
+    height: 50px;
+    background-color: #4AAA4D;
+    border-radius: 8px;
+    transition: 1s;
+}
+.face{
+    position:fixed;
+    z-index: 3;
+    right: 0;
+    top: 31%;
+    width: 50px;
+    height: 50px;
+    background-color: #1773EA;
+    border-radius: 8px;
+    transition: 1s;
+}
+.insta{
+    z-index: 2;
+    position:fixed;
+    right: 0;
+    top: 32%;
+    width: 50px;
+    height: 50px;
+    background-color: #D53A6F;
+    border-radius: 8px;
+    transition: 1s;
+}
+.bi-arrow-return-right{
+    display: flex !important;
+    margin: 0 !important;
+    font-size: 30px;
+    color: black;
+    z-index: 1;
+    position:fixed;
+    right: 8px;
+    top: 32%;
+}
