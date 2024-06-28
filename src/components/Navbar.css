@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,200..1000;1,200..1000&display=swap');
+
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-direction: row;
+    background-color: #101010;
+    color: white;
+    width: 100vw;
+    height: 100px;
+    border-bottom: 5px solid #4081D9;
+}
+.navbar img{
+    width: 205px;
+    margin-left: 38px;
+}
+.nav-desk ul{
+    display: flex;
+    flex-direction: row;
+    gap: 38px;
+    list-style-type: none;
+}
+.nav-desk li{
+    color: white;
+}
+.nav-desk span{
+    margin-left: 28px;
+}
+.mobile-nav{
+    display: none;
+    flex-direction: column;
+    position: absolute;
+    top: 105px;
+    width: 100vw;
+    background-color: #101010;
+    opacity: 90%;
+}
+.nav-mob{
+    display: flex;
+    flex-direction: column;
+    color: white;
+    gap: 10px;
+}
+.nav-mob ul{
+    list-style-type: none;
+}
+.nav-mob li{
+    color: white;
+    list-style-type: none;
+}
+.nav-desk{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+i{
+    display: none;
+    color: white;
+    font-size: 30px;
+    position: absolute;
+    right: 0;
+    margin-right: 28px;
+    border: 1px solid white;
+    padding: 5px 5px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+@media (max-width: 1000px){
+    .nav-desk ul{
+        display: none;
+    }
+    .nav-desk span{
+        display: none;
+    }
+    i{
+        display: flex;
+    }
+}
