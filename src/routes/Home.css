@@ -42,7 +42,7 @@
     position: absolute;
     padding: 8px;
     padding-left: 40px;
-    background-color: #4081D9;
+    background-color: #238023;
     color: white;
     font-weight: 600;
     font-size: 18px;
@@ -50,7 +50,7 @@
 }
 .veiculo img{
     width: 300px;
-    
+
 }
 .v-info {
     display: flex;
@@ -62,7 +62,7 @@
     content: ''; /* Obrigatório para o pseudo-elemento */
     width: 10px;
     height: 30px;
-    background-color: #4081D9;
+    background-color: #238023;
     position: absolute;
     margin-top: 16px;
     margin-left: -20px;
