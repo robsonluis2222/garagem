@@ -21,7 +21,7 @@ const Navbar = () => {
 
   return (
     <div className='navbar'>
-      <img src="https://jlveiculositj.com.br/img/logo2.png" alt="logo" />
+      <img src="https://i.imgur.com/FImWWaO.png" alt="logo" />
       <i className="bi bi-list" onClick={showNav}></i>
       <div className='mobile-nav' ref={mobileRef}>
         <ul className='nav-mob'>
@@ -42,7 +42,7 @@ const Navbar = () => {
         </ul>
         <span>(47) 3075-0731</span>
       </div>
-      
+
     </div>
   );
 };

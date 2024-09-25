@@ -9,10 +9,10 @@
     color: white;
     width: 100vw;
     height: 100px;
-    border-bottom: 5px solid #4081D9;
+    border-bottom: 5px solid #116711;
 }
 .navbar img{
-    width: 205px;
+    width: 280px;
     margin-left: 38px;
 }
 .nav-desk ul{
@@ -22,7 +22,7 @@
     list-style-type: none;
 }
 .nav-desk li{
-    color: white;
+    color: #babcbe;
 }
 .nav-desk span{
     margin-left: 28px;

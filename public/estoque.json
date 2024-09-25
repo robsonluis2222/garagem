@@ -1,21 +1,21 @@
 {
     "carros": [
         {
-            "nome": "HONDA BIZ 125 125125I FLEX",
-            "marca": "Honda",
-            "modelo": "Biz 125",
-            "versao": "125125I FLEX",
-            "motor": "125cc",
-            "preco":"R$ 16.489,89",
+            "nome": "Fiat Toro 2.0 FREEDOM 4X4 TB DIESEL AUT.",
+            "marca": "Fiat",
+            "modelo": "Toro",
+            "versao": "FREEDOM 4X4 TB DIESEL AUT.",
+            "motor": "2.0",
+            "preco":"R$ 117.990,00",
             "ano": 2019,
-            "cor": "Branco",
-            "combustivel": "Bi-Combustível",
-            "quilometragem": 23889,
+            "cor": "Prata",
+            "combustivel": "Diesel",
+            "quilometragem": 91716,
             "imagens": [
-                "https://302017-litoralcar-org.s3.unifique.cloud/litoralcar/1722/honda-biz-125-125125i-flex--2019-19094128-004.webp",
-                "https://302017-litoralcar-org.s3.unifique.cloud/litoralcar/1722/honda-biz-125-125125i-flex--2019-19094129-004.webp",
-                "https://302017-litoralcar-org.s3.unifique.cloud/litoralcar/1722/honda-biz-125-125125i-flex--2019-19094130-004.webp",
-                "https://302017-litoralcar-org.s3.unifique.cloud/litoralcar/1722/honda-biz-125-125125i-flex--2019-19094132-004.webp"
+                "https://302017-litoralcar-org.s3.unifique.cloud/litoralcar/1722/fiat-toro-freedom---4x4-tb-diesel-aut.-2.0-2019-19497830-004.webp",
+                "https://302017-litoralcar-org.s3.unifique.cloud/litoralcar/1722/fiat-toro-freedom---4x4-tb-diesel-aut.-2.0-2019-19497831-004.webp",
+                "https://302017-litoralcar-org.s3.unifique.cloud/litoralcar/1722/fiat-toro-freedom---4x4-tb-diesel-aut.-2.0-2019-19497832-004.webp",
+                "https://302017-litoralcar-org.s3.unifique.cloud/litoralcar/1722/fiat-toro-freedom---4x4-tb-diesel-aut.-2.0-2019-19497833-004.webp"
             ]
         },
         {
@@ -24,16 +24,16 @@
             "modelo": "C-180",
             "versao": "CGI CLASSIC 156CV AUT.",
             "motor": "1.8",
-            "preco":"R$ 66.898,98",
+            "preco":"R$ 63.990,00",
             "ano": 2012,
             "cor": "Prata",
             "combustivel": "Gasolina",
             "quilometragem": 172592,
             "imagens": [
-                "https://302017-litoralcar-org.s3.unifique.cloud/litoralcar/1722/mercedes-benz-c-180-cgi-classic---156cv-aut.-1.8-2012-18614406-004.webp",
-                "https://302017-litoralcar-org.s3.unifique.cloud/litoralcar/1722/mercedes-benz-c-180-cgi-classic---156cv-aut.-1.8-2012-18614407-004.webp",
-                "https://302017-litoralcar-org.s3.unifique.cloud/litoralcar/1722/mercedes-benz-c-180-cgi-classic---156cv-aut.-1.8-2012-18614408-004.webp",
-                "https://302017-litoralcar-org.s3.unifique.cloud/litoralcar/1722/mercedes-benz-c-180-cgi-classic---156cv-aut.-1.8-2012-18614409-004.webp"
+                "https://302017-litoralcar-org.s3.unifique.cloud/litoralcar/1722/mercedes-benz-c-180-cgi-classic---156cv-aut.-1.8-2012-20015893-004.webp",
+                "https://302017-litoralcar-org.s3.unifique.cloud/litoralcar/1722/mercedes-benz-c-180-cgi-classic---156cv-aut.-1.8-2012-20015895-004.webp",
+                "https://302017-litoralcar-org.s3.unifique.cloud/litoralcar/1722/mercedes-benz-c-180-cgi-classic---156cv-aut.-1.8-2012-20015896-004.webp",
+                "https://302017-litoralcar-org.s3.unifique.cloud/litoralcar/1722/mercedes-benz-c-180-cgi-classic---156cv-aut.-1.8-2012-20015898-004.webp"
             ]
         }
     ]
